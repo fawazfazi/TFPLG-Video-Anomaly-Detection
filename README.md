@@ -1,4 +1,4 @@
-TFPLG-Video-Anomaly-Detection
+# TFPLG-Video-Anomaly-Detection
 Training-Free VLM-Based Pseudo Label Generation for Video Anomaly Detection
 Investigating the Impact of Text Description Quality Using UCA Annotations
 > **MSc Computing / Data Science Project**  
